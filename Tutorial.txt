@@ -1,0 +1,8 @@
+Para criacao do KeyClock:
+1 - Criar Realms
+2 - Criar Client
+3 - Configurar login
+4 - Criar user - proprietario1
+5 - Vincular role ao cliente
+6 - Entrar no client ->  Mapper -> add built in, realm roles, mapear pra groups
+
